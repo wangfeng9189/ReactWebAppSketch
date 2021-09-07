@@ -1,0 +1,34 @@
+{
+  "name": "reactwebappsketch",
+  "version": "1.0.0",
+  "description": "React Web App for Demonstrate Blockchain & Solidity skill",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangfeng9189/ReactWebAppSketch.git"
+  },
+  "keywords": [
+    "React",
+    "Blockchain",
+    "Solidity"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangfeng9189/ReactWebAppSketch/issues"
+  },
+  "homepage": "https://github.com/wangfeng9189/ReactWebAppSketch#readme",
+  "dependencies": {
+    "fs-extra": "^10.0.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^9.1.1",
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "solc": "^0.8.7-fixed",
+    "web3": "^1.5.2"
+  }
+}
